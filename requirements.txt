@@ -1,0 +1,4 @@
+streamlit>=1.42
+scapy>=2.6
+pandas>=2.2
+plotly>=5.24
